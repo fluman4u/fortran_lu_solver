@@ -106,8 +106,4 @@ end program demo
 
 ## 📊 项目状态
 
-```text
-![GitHub](https://img.shields.io/badge/Fortran-90/95/2003-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Gitee Stars](https://gitee.com/你的用户名/fortran-lu-solver/badge/star.svg)
-```
+![Gitee Stars](https://gitee.com/fluman2024/fortran_lu_solver/badge/star.svg)
