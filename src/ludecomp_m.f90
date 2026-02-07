@@ -40,9 +40,8 @@ contains
         end if
       end if
 
-      a(k, k+1:n) = a(k, k+1:n) / a(k, k)
-
       do i = k+1, n
+        a(i, k) = a(i, k) / a(k, k)
         a(i, k+1:n) = a(i, k+1:n) - a(i,k) * a(k, k+1:n)
       end do
     end do
