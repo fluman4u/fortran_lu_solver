@@ -2,12 +2,11 @@
 
 ### Added
 
-- initials
+- initial release
 
 ### Fixed
 
 - none
 
 ---
-
 
